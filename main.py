@@ -24,7 +24,7 @@ import tkinter as tk
 from tkinter import filedialog
 
 @st.cache()
-def load_model(path='yolov5/runs/train/exp6/weights/best.pt'):
+def load_model(path='models/best.pt'):
     detection_model = torch.hub.load('ultralytics/yolov5', 'custom', path=path)
     return detection_model
 
