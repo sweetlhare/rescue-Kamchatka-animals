@@ -1,3 +1,5 @@
+> **In English:** Processing camera-trap data from the Kronotsky Nature Reserve (Kamchatka) — a Streamlit app with trained models and working notebooks. *(Full description in Russian below.)*
+
 # rescue-Kamchatka-animals
 
 ## Решение задачи по обработке данных с фотоловушек в Кроноцком заповеднике от команды НеКамчатские Зайцы
